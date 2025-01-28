@@ -1,0 +1,7 @@
+{
+    "[dart]": {
+        "editor.formatOnSave": true
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.autoSaveDelay": 0
+}
